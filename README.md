@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding such as JAVA, SQL, JAVASCRIPT and so on.
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: jiahaozhan2005@gmail.com
-- 😄 Pronouns: Yes sir.
+- 😄 Pronouns: Imma croissant
 - ⚡ Fun fact: I'm a boy
 
 <!---
