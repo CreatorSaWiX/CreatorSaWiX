@@ -2,7 +2,7 @@
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently learning coding such as JAVA, SQL, JAVASCRIPT and so on.
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: jiahaozhan2005@gmail.com
+- 📫 How to reach me: jiahaozhan2005@gmail.com.
 - 😄 Pronouns: Yes sir.
 - ⚡ Fun fact: I'm a boy
 
