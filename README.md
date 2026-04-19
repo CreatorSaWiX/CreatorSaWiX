@@ -1,6 +1,4 @@
-## Jiahao Zhan | Software engineering student @ UPC-FIB specializing in WebGL, R3F & 3D Graphics
-
-I am a **Computer Engineering Student @ UPC-FIB** and a **Senior Technician in Multiplatform App Development (DAM)**. I specialize in the intersection of high-performance software engineering, 3D graphics, and interactive user experiences.
+I am a **computer science & engineering student @ UPC-FIB** and a **senior technician in multiplatform app development (DAM)**. I specialize in the intersection of high-performance software engineering, 3D graphics, and interactive user experiences.
 
 ## Current focused on:
 
