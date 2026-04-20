@@ -16,7 +16,7 @@ I am a **computer science & engineering student @ UPC-FIB** and a **senior techn
 | **Tools & Creative** | Git, Docker, Figma, Adobe Premiere Pro, After Effects |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiahao-zhan-814749302/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=react&logoColor=white)](https://jiahaozhan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jiahaozhan.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiahaozhan2005@gmail.com)
 
 *"I thrive on solving complex technical challenges that result in 'How did they do that?' user experiences."*
